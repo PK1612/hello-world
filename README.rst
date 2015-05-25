@@ -22,3 +22,5 @@ Then execute ::
 
 	./hello
 
+Thanks for using our program.
+
